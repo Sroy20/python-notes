@@ -121,4 +121,9 @@ So, most dict operations are O(1).
 
 defaultdicts support all operations that dicts support, with the same complexity classes (because it inherits all the operations); this assumes that calling the constructor when a values isn't found in the defaultdict is O(1) - which is true for int(), list(), set(), ... (the things commonly used)
 
+## Important Functions
+
+1. Enumerate:
+
+https://docs.python.org/3/library/functions.html#enumerate
 
