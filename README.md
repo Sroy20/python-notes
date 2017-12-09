@@ -24,9 +24,9 @@ All of Python’s immutable built-in objects are hashable, while no mutable cont
 
 General comments: The list data structure in Python is implemented as a dynamic array.
 
-Operation     | Example      | Time Complexity         | Notes
---------------+--------------+---------------+-------------------------------
-Index         | l[i]         | O(1)	     |
+| Operation     | Example      | Time Complexity         | Notes |
+| -------------- | -------------- | --------------- | ------------------------------- |
+| Index         | l[i]         | O(1)	     | |
 Store         | l[i] = 0     | O(1)	     |
 Length        | len(l)       | O(1)	     |
 Append        | l.append(5)  | O(1)	     |
