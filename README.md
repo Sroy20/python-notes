@@ -131,6 +131,12 @@ https://docs.python.org/3/library/functions.html#enumerate
 
 1. [np.multiply](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.multiply.html): Does element-wise multiplication operations of two multi-dimensional numpy arrays.
 1. [np.pad](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.pad.html): For padding multi-dimensional arrays
+1. [np.dot](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.dot.html)
+1. [np.exp](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.exp.html)
+1. [np.abs](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.absolute.html)
+1. [np.log](https://docs.scipy.org/doc/numpy-1.10.4/reference/generated/numpy.log.html)
+1. [np.maximum](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.maximum.html)
+1. 
 
 
 
