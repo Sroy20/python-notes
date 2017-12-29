@@ -136,7 +136,8 @@ https://docs.python.org/3/library/functions.html#enumerate
 1. [np.abs](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.absolute.html)
 1. [np.log](https://docs.scipy.org/doc/numpy-1.10.4/reference/generated/numpy.log.html)
 1. [np.maximum](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.maximum.html)
-1. 
+1. [np.shape](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.ndarray.shape.html)
+1. [np.reshape](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.reshape.html)
 
 
 
