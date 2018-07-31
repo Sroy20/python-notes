@@ -127,6 +127,14 @@ defaultdicts support all operations that dicts support, with the same complexity
 
 https://docs.python.org/3/library/functions.html#enumerate
 
+1. Zip
+
+1. Filter, map, and reduce
+
+https://www.python-course.eu/python3_lambda.php
+
+
+
 ## Numpy - Functions to remember for Machine Learning
 
 1. [np.multiply](https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.multiply.html): Does element-wise multiplication operations of two multi-dimensional numpy arrays.
