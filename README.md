@@ -208,6 +208,13 @@ PASS BY VALUE:
 
 A new box is created in the called function, and copies of contents of the box from the calling function is stored into the new boxes.
 
-Hope this helps.
+List comprehension with only if statement or if/else statement:
+
+[ expression for item in list if conditional ] 
+but that's actually not what you do in this case. (I was trying to do it that way)
+
+In this case, it's more like this:
+
+[ expression if conditional else other thing for this many times ] 
 
 
